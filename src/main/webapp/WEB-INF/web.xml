@@ -8,7 +8,7 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>ProductServlet</servlet-name>
-    <url-pattern>/ProductServlet</url-pattern>
+    <url-pattern>/inventory</url-pattern>
   </servlet-mapping>
   <display-name>InventoryMgmtWithJSTL</display-name>
   <welcome-file-list>
